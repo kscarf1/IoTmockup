@@ -2,16 +2,13 @@
 
 Add intro here
 
-Add TOC-like list with jumps to each capability?
-
+## Table of Contents
+### Asset Management
 * [Capability 1: The IoT device can be identified both logically and physically.](#capability-1)
 * Capability 2
 * Capability 3
 
 *** 
-
-## Protect Device Security—Asset Management
-
 ### Capability 1: The IoT device can be identified both logically and physically. <a name="capability-1">
 
 Expectations: 1	
