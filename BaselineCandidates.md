@@ -9,7 +9,12 @@ Add intro here
 * Capability 3
 
 *** 
-### Capability 1: The IoT device can be identified both logically and physically. <a name="capability-1">
+### Capability 1:<a name="capability-1"> The IoT device can be identified both logically and physically. 
+
+Criteria:
+* Utility: The ability to monitor a network and identify rogue devices requires, in part, the ability to identify those devices and their functions. Additionally, the connection between physical and logical identity is important towards on-the-ground risk mitigations in real networks (e.g., physically replacing a compromised device). Important for the scale and diversity of IoT devices and networks to help identify devices on the network and what security is important for them at that layer. Therefore, this capability is fundamental to many approaches and aspects of security.
+* Dependency: Asset management, access management, vulnerability management
+* Verifiability: Easily verified by looking for logical and physical identifiers.
 
 Expectations: 1	
 
@@ -39,7 +44,7 @@ References to Selected IoT Guidance Documents:
 
 ## Selected IoT Guidance Documents
 
-* BITAG: Broadband Internet Technical Advisory Group (BITAG), "Internet of Things (IoT) Security and Privacy Recommendations," November 2016, <https://www.bitag.org/documents/BITAG_Report_-_Internet_of_Things_(IoT)_Security_and_Privacy_Recommendations.pdf> <a name="bitag">
+* BITAG:<a name="bitag"> Broadband Internet Technical Advisory Group (BITAG), "Internet of Things (IoT) Security and Privacy Recommendations," November 2016, <https://www.bitag.org/documents/BITAG_Report_-_Internet_of_Things_(IoT)_Security_and_Privacy_Recommendations.pdf> 
 * CSA1: Cloud Security Alliance (CSA) Mobile Working Group, “Security Guidance for Early Adopters of the Internet of Things (IoT),” April 2015, <https://cloudsecurityalliance.org/download/new-security-guidance-for-early-adopters-of-the-iot/>
 * CSA2: CSA IoT Working Group, “Identity and Access Management for the Internet of Things,” September 2015, <https://cloudsecurityalliance.org/download/identity-and-access-management-for-the-iot/>
 * CTIA: CTIA, “CTIA Cybersecurity Certification Test Plan for IoT Devices, Version 1.0,” August 2018, <https://api.ctia.org/wp-content/uploads/2018/08/CTIA-IoT-Cybersecurity-Certification-Test-Plan-V1_0.pdf>
