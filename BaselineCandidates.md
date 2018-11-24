@@ -4,7 +4,7 @@ Add intro here
 
 Add TOC-like list with jumps to each capability?
 
-* [`<Capability 1>`](#code-Capability 1-code-element) (Capability 1)
+* (#code-Capability-1-code-element) (Capability 1)
 
 ## Protect Device Security—Asset Management
 
@@ -28,7 +28,7 @@ Draft SP 800-53 Revision 5 Controls:
 *	PE-20	
 
 References to Selected IoT Guidance Documents:
-*	BITAG: 7.2, 7.6
+*	[BITAG][1]: 7.2, 7.6
 *	CSA1: 5.2.1.1, 5.3.1, 5.3.4
 *	CSA2: 11, 14
 *	CTIA: 4.13
@@ -40,10 +40,10 @@ References to Selected IoT Guidance Documents:
 
 ## Selected IoT Guidance Documents
 
-* BITAG: Broadband Internet Technical Advisory Group (BITAG), “Internet of Things (IoT) Security and Privacy Recommendations,” November 2016, https://www.bitag.org/documents/BITAG_Report_-_Internet_of_Things_(IoT)_Security_and_Privacy_Recommendations.pdf
-* CSA1: Cloud Security Alliance (CSA) Mobile Working Group, “Security Guidance for Early Adopters of the Internet of Things (IoT),” April 2015, https://cloudsecurityalliance.org/download/new-security-guidance-for-early-adopters-of-the-iot/
-* CSA2: CSA IoT Working Group, “Identity and Access Management for the Internet of Things,” September 2015, https://cloudsecurityalliance.org/download/identity-and-access-management-for-the-iot/
-* CTIA: CTIA, “CTIA Cybersecurity Certification Test Plan for IoT Devices, Version 1.0,” August 2018, https://api.ctia.org/wp-content/uploads/2018/08/CTIA-IoT-Cybersecurity-Certification-Test-Plan-V1_0.pdf
+* [1] BITAG: Broadband Internet Technical Advisory Group (BITAG), “Internet of Things (IoT) Security and Privacy Recommendations,” November 2016, (https://www.bitag.org/documents/BITAG_Report_-_Internet_of_Things_(IoT)_Security_and_Privacy_Recommendations.pdf)
+* CSA1: Cloud Security Alliance (CSA) Mobile Working Group, “Security Guidance for Early Adopters of the Internet of Things (IoT),” April 2015, (https://cloudsecurityalliance.org/download/new-security-guidance-for-early-adopters-of-the-iot/)
+* CSA2: CSA IoT Working Group, “Identity and Access Management for the Internet of Things,” September 2015, (https://cloudsecurityalliance.org/download/identity-and-access-management-for-the-iot/)
+* CTIA: CTIA, “CTIA Cybersecurity Certification Test Plan for IoT Devices, Version 1.0,” August 2018, (https://api.ctia.org/wp-content/uploads/2018/08/CTIA-IoT-Cybersecurity-Certification-Test-Plan-V1_0.pdf)
 * ENISA: European Union Agency for Network and Information Security (ENISA), “Baseline Security Recommendations for IoT in the context of Critical Information Infrastructures” [12]
 * GSMA: Groupe Spéciale Mobile Association (GSMA), “GSMA IoT Security Assessment”  [13]
 * IIC: Industrial Internet Consortium (IIC), “Industrial Internet of Things Volume G4: Security Framework” [14]
