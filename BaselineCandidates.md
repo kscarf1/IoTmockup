@@ -2,13 +2,19 @@
 
 Add intro here
 
+Add TOC-like list with jumps to each capability?
+
+* [`<Capability 1>`](#code-Capability 1-code-element) (Capability 1)
+
 ## Protect Device Security—Asset Management
 
-### Capability 1: The IoT device can be identified both logically and physically.
+### Capability 1
+
+The IoT device can be identified both logically and physically.
 
 Expectations: 1	
 
-Cybersecurity Framework Subcategories:
+NIST Cybersecurity Framework 1.1 Subcategories:
 *	ID.AM-1: Physical devices and systems within the organization are inventoried
 *	ID.AM-2: Software platforms and applications within the organization are inventoried
 *	PR.AC-1: Identities and credentials are issued, managed, verified, revoked, and audited for authorized devices, users and processes
