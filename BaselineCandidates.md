@@ -28,7 +28,7 @@ Draft SP 800-53 Revision 5 Controls:
 *	PE-20	
 
 References to Selected IoT Guidance Documents:
-*	[BITAG][1]: 7.2, 7.6
+*	[BITAG][1] 7.2, 7.6
 *	CSA1: 5.2.1.1, 5.3.1, 5.3.4
 *	CSA2: 11, 14
 *	CTIA: 4.13
@@ -40,7 +40,7 @@ References to Selected IoT Guidance Documents:
 
 ## Selected IoT Guidance Documents
 
-* [1] BITAG: Broadband Internet Technical Advisory Group (BITAG), “Internet of Things (IoT) Security and Privacy Recommendations,” November 2016, (https://www.bitag.org/documents/BITAG_Report_-_Internet_of_Things_(IoT)_Security_and_Privacy_Recommendations.pdf)
+* [1]: https://www.bitag.org/documents/BITAG_Report_-_Internet_of_Things_(IoT)_Security_and_Privacy_Recommendations.pdf "Broadband Internet Technical Advisory Group (BITAG), Internet of Things (IoT) Security and Privacy Recommendations, November 2016"
 * CSA1: Cloud Security Alliance (CSA) Mobile Working Group, “Security Guidance for Early Adopters of the Internet of Things (IoT),” April 2015, (https://cloudsecurityalliance.org/download/new-security-guidance-for-early-adopters-of-the-iot/)
 * CSA2: CSA IoT Working Group, “Identity and Access Management for the Internet of Things,” September 2015, (https://cloudsecurityalliance.org/download/identity-and-access-management-for-the-iot/)
 * CTIA: CTIA, “CTIA Cybersecurity Certification Test Plan for IoT Devices, Version 1.0,” August 2018, (https://api.ctia.org/wp-content/uploads/2018/08/CTIA-IoT-Cybersecurity-Certification-Test-Plan-V1_0.pdf)
