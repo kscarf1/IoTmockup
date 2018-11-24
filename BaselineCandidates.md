@@ -4,7 +4,7 @@ Add intro here
 
 ## Protect Device Security—Asset Management
 
-1.	The IoT device can be identified both logically and physically.
+### Capability 1: The IoT device can be identified both logically and physically.
 
 Expectation 1	
 
