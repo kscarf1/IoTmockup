@@ -6,7 +6,7 @@ Add intro here
 
 ### Capability 1: The IoT device can be identified both logically and physically.
 
-Expectation 1	
+Expectations: 1	
 
 Cybersecurity Framework Subcategories:
 *	ID.AM-1: Physical devices and systems within the organization are inventoried
@@ -17,8 +17,8 @@ Cybersecurity Framework Subcategories:
 *	PR.MA-2: Remote maintenance of organizational assets is approved, logged, and performed in a manner that prevents unauthorized access	
 
 Draft SP 800-53 Revision 5 Controls:
-*	CM-8
-*	IA-3
+*	CM-8, System Component Inventory
+*	IA-3, Device Identification and Authentication
 *	PE-20	
 
 References to Selected IoT Guidance Documents:
@@ -31,3 +31,16 @@ References to Selected IoT Guidance Documents:
 *	IIC: 7.3, 8.5
 *	IoTSF: 2.4.14.3-4, 2.4.8.1
 *	UKDDCMS: 4
+
+## Selected IoT Guidance Documents
+
+* BITAG: Broadband Internet Technical Advisory Group (BITAG), “Internet of Things (IoT) Security and Privacy Recommendations,” November 2016, https://www.bitag.org/documents/BITAG_Report_-_Internet_of_Things_(IoT)_Security_and_Privacy_Recommendations.pdf
+* CSA1: Cloud Security Alliance (CSA) Mobile Working Group, “Security Guidance for Early Adopters of the Internet of Things (IoT),” April 2015, https://cloudsecurityalliance.org/download/new-security-guidance-for-early-adopters-of-the-iot/
+* CSA2: CSA IoT Working Group, “Identity and Access Management for the Internet of Things,” September 2015, https://cloudsecurityalliance.org/download/identity-and-access-management-for-the-iot/
+* CTIA: CTIA, “CTIA Cybersecurity Certification Test Plan for IoT Devices, Version 1.0,” August 2018, https://api.ctia.org/wp-content/uploads/2018/08/CTIA-IoT-Cybersecurity-Certification-Test-Plan-V1_0.pdf
+* ENISA: European Union Agency for Network and Information Security (ENISA), “Baseline Security Recommendations for IoT in the context of Critical Information Infrastructures” [12]
+* GSMA: Groupe Spéciale Mobile Association (GSMA), “GSMA IoT Security Assessment”  [13]
+* IIC: Industrial Internet Consortium (IIC), “Industrial Internet of Things Volume G4: Security Framework” [14]
+* IoTSF: IoT Security Foundation (IoTSF), “IoT Security Compliance Framework, Release 1.1” [15]
+* OTA: Online Trust Alliance (OTA), “IoT Security & Privacy Trust Framework v2.5” [16]
+* UKDDCMS: United Kingdom Government Department for Digital, Culture, Media & Sport (DCMS), “Secure by Design: Improving the cyber security of consumer Internet of Things” [17]
