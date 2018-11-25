@@ -2,7 +2,7 @@
 
 Add intro here. This is where we could explain what each field means for each capability.
 
-## Table of Contents<a name="toc">
+## <a name="toc">Table of Contents
 * [Capability 1: The IoT device can be identified both logically and physically.](#capability-1)
 * Capability 4: The IoT device’s software and firmware can be updated using a secure, controlled, and configurable mechanism.
 * Capability 5: The IoT device’s configuration can be securely changed by authorized users when needed, including restoring a secure default configuration, and unauthorized changes to the IoT device’s configuration can be prevented.
@@ -52,9 +52,9 @@ Selected IoT Guidance Documents:
 * CSA1:<a name="csa1"> Cloud Security Alliance (CSA) Mobile Working Group, “Security Guidance for Early Adopters of the Internet of Things (IoT),” April 2015, <https://cloudsecurityalliance.org/download/new-security-guidance-for-early-adopters-of-the-iot/>
 * CSA2:<a name="csa2"> CSA IoT Working Group, “Identity and Access Management for the Internet of Things,” September 2015, <https://cloudsecurityalliance.org/download/identity-and-access-management-for-the-iot/>
 * CTIA:<a name="ctia"> CTIA, “CTIA Cybersecurity Certification Test Plan for IoT Devices, Version 1.0,” August 2018, <https://api.ctia.org/wp-content/uploads/2018/08/CTIA-IoT-Cybersecurity-Certification-Test-Plan-V1_0.pdf>
-* ENISA:<a name="enisa"> European Union Agency for Network and Information Security (ENISA), “Baseline Security Recommendations for IoT in the context of Critical Information Infrastructures” [12]
-* GSMA:<a name="gsma"> Groupe Spéciale Mobile Association (GSMA), “GSMA IoT Security Assessment”  [13]
-* IIC:<a name="iic"> Industrial Internet Consortium (IIC), “Industrial Internet of Things Volume G4: Security Framework” [14]
-* IoTSF:<a name="iotsf"> IoT Security Foundation (IoTSF), “IoT Security Compliance Framework, Release 1.1” [15]
-* OTA:<a name="ota"> Online Trust Alliance (OTA), “IoT Security & Privacy Trust Framework v2.5” [16]
-* UKDDCMS:<a name="ukddcms"> United Kingdom Government Department for Digital, Culture, Media & Sport (DCMS), “Secure by Design: Improving the cyber security of consumer Internet of Things” [17]
+* ENISA:<a name="enisa"> European Union Agency for Network and Information Security (ENISA), “Baseline Security Recommendations for IoT in the context of Critical Information Infrastructures,” November 2017, <https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot>
+* GSMA:<a name="gsma"> Groupe Spéciale Mobile Association (GSMA), “GSMA IoT Security Assessment,” 2017, <https://www.gsma.com/iot/iot-security-assessment/>
+* IIC:<a name="iic"> Industrial Internet Consortium (IIC), “Industrial Internet of Things Volume G4: Security Framework,” 2016, <https://www.iiconsortium.org/IISF.htm>
+* IoTSF:<a name="iotsf"> IoT Security Foundation (IoTSF), “IoT Security Compliance Framework, Release 1.1," December 2017, <https://www.iotsecurityfoundation.org/best-practice-guidelines/>
+* OTA:<a name="ota"> Online Trust Alliance (OTA), “IoT Security & Privacy Trust Framework v2.5,” June 2017, <https://otalliance.org/system/files/files/initiative/documents/iot_trust_framework6-22.pdf>
+* UKDDCMS:<a name="ukddcms"> United Kingdom Government Department for Digital, Culture, Media & Sport (DCMS), “Secure by Design: Improving the cyber security of consumer Internet of Things,” March 2018, <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/686089/Secure_by_Design_Report_.pdf>
