@@ -19,7 +19,7 @@ Evaluation Criteria:
 * Dependency: Asset management, access management, vulnerability management
 * Verifiability: Easily verified by looking for logical and physical identifiers.
 
-NIST Cybersecurity Framework 1.1 Subcategories:
+[NIST Cybersecurity Framework 1.1](#nistcsf) Subcategories:
 *	ID.AM-1: Physical devices and systems within the organization are inventoried
 *	ID.AM-2: Software platforms and applications within the organization are inventoried
 *	PR.AC-1: Identities and credentials are issued, managed, verified, revoked, and audited for authorized devices, users and processes
@@ -27,7 +27,7 @@ NIST Cybersecurity Framework 1.1 Subcategories:
 *	PR.MA-1: Maintenance and repair of organizational assets are performed and logged, with approved and controlled tools
 *	PR.MA-2: Remote maintenance of organizational assets is approved, logged, and performed in a manner that prevents unauthorized access	
 
-Draft SP 800-53 Revision 5 Controls:
+[Draft SP 800-53 Revision 5](#sp80053) Controls:
 *	CM-8, System Component Inventory
 *	IA-3, Device Identification and Authentication
 *	PE-20, Asset Monitoring and Tracking
@@ -58,3 +58,9 @@ Selected IoT Guidance Documents:
 * IoTSF:<a name="iotsf"> IoT Security Foundation (IoTSF), “IoT Security Compliance Framework, Release 1.1," December 2017, <https://www.iotsecurityfoundation.org/best-practice-guidelines/>
 * OTA:<a name="ota"> Online Trust Alliance (OTA), “IoT Security & Privacy Trust Framework v2.5,” June 2017, <https://otalliance.org/system/files/files/initiative/documents/iot_trust_framework6-22.pdf>
 * UKDDCMS:<a name="ukddcms"> United Kingdom Government Department for Digital, Culture, Media & Sport (DCMS), “Secure by Design: Improving the cyber security of consumer Internet of Things,” March 2018, <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/686089/Secure_by_Design_Report_.pdf>
+
+Selected NIST Security Documents:
+* Cybersecurity Framework:<a name="nistcsf"> “Framework for Improving Critical Infrastructure Cybersecurity, Version 1.1,” April 16, 2018, <https://doi.org/10.6028/NIST.CSWP.04162018>
+* SP 800-53:<a name="sp80053"> Draft NIST SP 800-53 Revision 5, “Security and Privacy Controls for Information Systems and Organizations,” August 2017, <https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/draft>
+  
+[Return to Table of Contents](#toc)
